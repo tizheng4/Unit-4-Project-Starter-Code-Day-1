@@ -1,0 +1,59 @@
+img {
+    height: 200px;
+    margin: 15px;
+}
+
+.menu {
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+ font-family: 'Playfair Display', serif;
+    background-color:pink;
+    margin:10px;
+}
+
+.images {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.earlylife {
+    color: teal;
+    font-family: 'Handlee', cursive;
+}
+
+.back {
+    background-image: url(https://assets.dmagstatic.com/wp-content/uploads/2019/07/dirk-nowitzki-dallas-mavericks.jpg);
+    width:100%;
+    height:250px;
+}
+
+.accomplishments{
+    color:blue;
+    font-family: 'Handlee', cursive;
+}
+
+.head{
+ font-size:50px;
+    font-family: 'Hachi Maru Pop', cursive;
+font-family: 'Playfair Display', serif;
+    
+}
+
+.small{
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.accom{
+font-family: 'Spartan', sans-serif;
+}
+
+.pho{
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+body{
+     background-color:cyan;
+}
